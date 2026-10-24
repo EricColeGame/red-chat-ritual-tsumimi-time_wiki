@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Red Chat Ritual TSUMIMI TIME Wiki",
+    "shortName": "TSUMIMI TIME",
+    "tagline": "ストーリー攻略、エンディング、手がかり、完全攻略",
+    "description": "物語の手がかり、選択の結末、エンディング、キャラクター、完全攻略を扱う『Red Chat Ritual TSUMIMI TIME』の非公式ファンウィキ。",
+    "legalNotice": "非公式ファンウィキです。Tohakusha Inc. および CIRCLE LINE GAMES とは提携していません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "guide": "攻略",
+    "mechanics": "システム",
+    "characters": "キャラクター",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "media": "メディア",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "『Red Chat Ritual TSUMIMI TIME』攻略ウィキ｜エンディングと完全攻略",
+      "description": "『Red Chat Ritual TSUMIMI TIME』の攻略、物語の手がかり、選択の結末、エンディング攻略、キャラクター情報、体験版、PC要件を掲載。"
+    },
+    "hero": {
+      "eyebrow": "サイコロジカルホラー・ミステリー",
+      "title": "Red Chat Ritual TSUMIMI TIME Wiki",
+      "description": "ツミミの配信を調査し、隠された手がかりを見つけ、物語の展開に介入しながら、マシロ失踪の真相を追うサイコロジカルホラー・ミステリー。",
+      "stats": [
+        "2026年10月22日リリース",
+        "4言語対応",
+        "Steamウィッシュリスト11万件以上",
+        "初回プレイ約4時間"
+      ],
+      "primaryCta": "ストーリー攻略",
+      "secondaryCta": "Steamで見る",
+      "tertiaryCta": "公式トレーラーを見る",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべての攻略を見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "『Red Chat Ritual TSUMIMI TIME』の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "昼夜のループを理解し、調査ファイルを読み、配信前にセーブして、資金を無駄にせず最初のコメントを送りましょう。"
+        },
+        {
+          "number": "2",
+          "title": "ストーリー攻略",
+          "description": "15日間の調査を、昼の手がかり、夜の配信、重要な推理、分岐確認の明確な順序で追いましょう。"
+        },
+        {
+          "number": "3",
+          "title": "手がかり調査",
+          "description": "返信、検索結果、ファンサイト、場所の詳細、ギフトへの反応から、各名前と場所の証拠を見つけましょう。"
+        },
+        {
+          "number": "4",
+          "title": "エンディングと選択",
+          "description": "メガチャット、ギフト、コメント、沈黙を、ツミミの物語を別の結末へ導く決断に合わせて計画しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま注目",
+      "quickLinks": [
+        "全エンディング",
+        "初心者ガイド",
+        "ストーリー攻略",
+        "手がかりシステム"
+      ],
+      "cards": [
+        {
+          "badge": "攻略",
+          "title": "エンディングガイド",
+          "description": "各エンディングのルート種別、終幕の兆候、立て直しの確認点を比較しましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide"
+        },
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "実践的な準備チェックリストと序盤の優先事項で昼夜ループを始めましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide"
+        },
+        {
+          "badge": "攻略",
+          "title": "ストーリー攻略",
+          "description": "調査の各段階を、読みやすい明確な順序で進めましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough"
+        },
+        {
+          "badge": "システム",
+          "title": "手がかりシステム",
+          "description": "配信のキーワードを、調査ファイルと的を絞った検索で証拠に変えましょう。",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "キャラクターガイド",
+          "description": "謎の中心にいるマシロ、ツミミ、視聴者、ライブチャットを紹介します。",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters"
+        },
+        {
+          "badge": "プラットフォーム",
+          "title": "PC動作要件",
+          "description": "Windowsの基準、最低ハードウェア、DirectXのバージョン、ストレージを確認しましょう。",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "『Red Chat Ritual TSUMIMI TIME』とは？",
+      "paragraphs": [
+        "『Red Chat Ritual TSUMIMI TIME』は、Tohakusha Inc.によるシングルプレイのサイコロジカルホラー・ミステリーアドベンチャーです。マシロが失踪した後、ツミミの配信を追い、コメント、メガチャット、ギフト、15日間の調査ループを使って、廃村で何が起きたのかを明らかにします。",
+        "ゲームは昼の調査と夜の配信を交互に進めます。検索結果、返信の連鎖、ファンサイト、場所の詳細が調査ファイルに反映され、確定した推理がツミミの反応を変え、複数のエンディングへつながります。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Tohakusha Inc."
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月22日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サイコロジカルホラー"
+        },
+        {
+          "label": "キャンペーン",
+          "value": "15日間"
+        },
+        {
+          "label": "初回クリア",
+          "value": "約4時間"
+        }
+      ],
+      "cta": "すべての攻略を見る"
+    },
+    "explore": {
+      "title": "『Red Chat Ritual TSUMIMI TIME』攻略ウィキを探る",
+      "description": "エンディングルート、初心者向け手順、日別攻略、手がかり分析、チャットの選択、キャラクター、体験版、PC要件を備えた完全な調査ガイドを追いましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "『Red Chat Ritual TSUMIMI TIME』エンディングガイド",
+          "description": "主要なエンディングルートを比較し、介入、調査、推理、最終選択が15日間の物語でツミミの運命をどう形づくるかを確認しましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "完全クリア：すべての儀式の問いかけに制限時間内で答え、最終場面までチャットを活発に保ちます。"
+            },
+            {
+              "label": "A",
+              "detail": "逸脱エンディング：遅れた返信や台本外の返信により、以前の矛盾を参照する終幕になります。"
+            },
+            {
+              "label": "B",
+              "detail": "沈黙エンディング：チャットの長い空白や未回答の儀式手順により、ほとんど区切りなく配信が終了します。"
+            },
+            {
+              "label": "C",
+              "detail": "ソフトロック：新しい会話、クレジット、終幕の画面なしで問いかけが繰り返されます。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "『Red Chat Ritual TSUMIMI TIME』初心者ガイド",
+          "description": "昼夜のループ、調査ファイル、コメント操作、メガチャットの予算管理、初回プレイを円滑にする習慣を学びましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "毎日のフェーズ開始前に調査ファイルを読み、未解決の疑問を書き留めましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "昼の検索、返信の連鎖、場所の詳細を使い、前回の配信で出たキーワードを解決しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "毎晩の配信前にホーム画面でセーブし、悪いメッセージの代償を1シーンだけに抑えましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "まず無料のコメントを使い、特定の推理を試す準備ができたときだけメガチャットを送りましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "『Red Chat Ritual TSUMIMI TIME』完全攻略",
+          "description": "配信の手がかり、昼の調査、調査ファイルの更新、重要な推理を明確な順序で日ごとに追いましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "15日間を調査と配信の繰り返しとして捉え、夜までにその日の未解決手がかりを片付けましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "ツミミの配信で名前、場所、矛盾、反応に注目し、検索すべき点を見つけましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "新しいキーワードは検索結果、返信の連鎖、ファンサイト、場所の詳細から解決しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "調査ファイル内の断片を結びつけ、各断片がどの結論を支えるか書き留めましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "1回の配信で推理は1つだけ試し、まずコメントを使い、答えが重要なときだけメガチャットを送りましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "結果を振り返り、きれいなセーブを保ち、残った疑問を翌日へ持ち越しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "『Red Chat Ritual TSUMIMI TIME』手がかりと調査ガイド",
+          "description": "配信のコメント、返信、検索結果、場所の詳細、ファンサイト、ギフトへの反応から証拠を集め、調査ファイルでつなげましょう。",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "返信",
+              "detail": "返信の連鎖を開いて、訂正、タイムスタンプ、追加情報を見落とさないようにしましょう。"
+            },
+            {
+              "label": "検索",
+              "detail": "最初の結果で止まらず、名前、出来事、場所を検索しましょう。"
+            },
+            {
+              "label": "場所",
+              "detail": "場所の詳細を使い、物語が時系列と合っているか確認しましょう。"
+            },
+            {
+              "label": "ファンサイト",
+              "detail": "コミュニティのアーカイブを読み、記録、執着、矛盾を探しましょう。"
+            },
+            {
+              "label": "ギフトの反応",
+              "detail": "ツミミが何を言うかだけでなく、ギフトやメガチャットにどう反応するかにも注目しましょう。"
+            },
+            {
+              "label": "ファイル",
+              "detail": "日と日の間に調査ファイルを見直し、抜けや未解決の筋を探しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "『Red Chat Ritual TSUMIMI TIME』選択とチャットガイド",
+          "description": "コメント、メガチャット、ギフト、沈黙を比較し、手持ちの手がかりと使える資金に合わせて各介入を計画しましょう。",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-super-chat-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "コメント",
+              "detail": "無料のメッセージでツミミの機嫌を探り、返信を引き出し、会話の分岐を開きます。"
+            },
+            {
+              "label": "メガチャット",
+              "detail": "通常のコメントが無視されたときに配信の流れを変えられる、有料の強調メッセージです。"
+            },
+            {
+              "label": "ギフト",
+              "detail": "配信の雰囲気を変え、後の日で遅れて反応が返ることもある支援です。"
+            },
+            {
+              "label": "沈黙",
+              "detail": "資金を使わず、反応を早すぎる段階で引き起こさないための意図的な不行動です。"
+            },
+            {
+              "label": "Ctrl",
+              "detail": "配信中にCtrlを押し続けると、次のメガチャットの判断まで早送りできます。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "『Red Chat Ritual TSUMIMI TIME』キャラクターガイド",
+          "description": "行方不明の配信者、配信の中心にいるホスト、視聴者であるあなた、謎を形づくるライブチャットを紹介します。",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mashiro",
+              "detail": "物語の発端となる失踪によって調査を動かす、人気配信者。"
+            },
+            {
+              "label": "Tsumimi",
+              "detail": "15日間の配信をあなたが見守り、問いかけ、介入する配信者。"
+            },
+            {
+              "label": "視聴者",
+              "detail": "あなたの役割：コメントを投稿し、メガチャットとギフトを送り、推理を確定します。"
+            },
+            {
+              "label": "ライブチャット",
+              "detail": "噂、圧力、ヒント、誤誘導を供給する集合的な存在。"
+            },
+            {
+              "label": "正体",
+              "detail": "誰がいつ各名前を使うかを追いましょう。名前の空白が手がかりになります。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "『Red Chat Ritual TSUMIMI TIME』体験版ガイド",
+          "description": "プレイ可能な体験版が導入する内容、3つの主要アクション、その習慣を15日間の製品版へどう引き継ぐかを学びましょう。",
+          "href": "/guide/red-chat-ritual-tsumimi-time-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "BitSummit",
+              "detail": "最初の公開体験版は、5月22日から24日に京都のTohakushaのBitSummit PUNCHブースで登場しました。"
+            },
+            {
+              "label": "コアループ",
+              "detail": "配信に介入し、画面に現れるものを調査し、その意味を推理しましょう。"
+            },
+            {
+              "label": "製品版",
+              "detail": "製品版は2026年10月22日に発売され、ループを15日間へ拡張します。"
+            },
+            {
+              "label": "新規セーブ",
+              "detail": "体験版で練習し、製品版は新しい調査から始めましょう。"
+            },
+            {
+              "label": "音楽",
+              "detail": "Kikuoがゲームの配信とホラー雰囲気のためにオリジナル楽曲を作曲しました。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "『Red Chat Ritual TSUMIMI TIME』PC動作要件",
+          "description": "サイコロジカルホラー・ミステリーをダウンロードする前に、Windowsの基準、最低ハードウェア、DirectXのバージョン、ストレージ容量を確認しましょう。",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows 10",
+              "detail": "64ビットOS必須。32ビットWindowsには対応していません。"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3-6100 または AMD Ryzen 3 1200。"
+            },
+            {
+              "label": "RAM",
+              "detail": "最低4 GB。8 GB以上あるとバックグラウンドアプリの余地が生まれます。"
+            },
+            {
+              "label": "GPU",
+              "detail": "Intel UHD Graphics 620、NVIDIA GTX 750 Ti、または AMD Radeon R7 260X。"
+            },
+            {
+              "label": "DirectX",
+              "detail": "バージョン11以降。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "基本インストール、セーブ、アップデート用に4 GBの空き容量。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "『Red Chat Ritual TSUMIMI TIME』についてよくある質問への簡潔な回答。",
+      "items": [
+        {
+          "question": "『Red Chat Ritual TSUMIMI TIME』とは？",
+          "answer": "『Red Chat Ritual TSUMIMI TIME』は、Tohakusha Inc.によるシングルプレイのサイコロジカルホラー・ミステリーアドベンチャーです。15日間の物語でマシロの失踪を調査しながら、ツミミの配信に介入します。"
+        },
+        {
+          "question": "『Red Chat Ritual TSUMIMI TIME』のプレイ時間は？",
+          "answer": "『Red Chat Ritual TSUMIMI TIME』はゲーム内で15日間、初回プレイは約4時間です。周回では別の推理をたどり、他のエンディングに到達できます。"
+        },
+        {
+          "question": "『Red Chat Ritual TSUMIMI TIME』のコメントとメガチャットの仕組みは？",
+          "answer": "『Red Chat Ritual TSUMIMI TIME』のコメントは無料で、ツミミの反応を試すのに役立ちます。メガチャットは限られた資金を使い、通常のコメントが無視されたときに配信の流れを変えられる強調メッセージを送ります。"
+        },
+        {
+          "question": "『Red Chat Ritual TSUMIMI TIME』に複数のエンディングはありますか？",
+          "answer": "はい。『Red Chat Ritual TSUMIMI TIME』は介入、調査、推理、最終選択で分岐し、エンディング実績は少なくとも8つの結末を示しています。"
+        },
+        {
+          "question": "『Red Chat Ritual TSUMIMI TIME』の体験版はありますか？",
+          "answer": "『Red Chat Ritual TSUMIMI TIME』のプレイ可能な体験版では、介入、調査、推理のループを体験できます。製品版はその構造を15日間の物語全体へ拡張します。"
+        },
+        {
+          "question": "自分のPCで『Red Chat Ritual TSUMIMI TIME』は動きますか？",
+          "answer": "『Red Chat Ritual TSUMIMI TIME』には64ビットWindows 10、4 GBのRAM、DirectX 11、4 GBのストレージが必要です。記載されているグラフィックの下限はIntel UHD 620、GTX 750 Ti、Radeon R7 260Xです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "TSUMIMI TIMEで真実を明らかにする準備はできましたか？",
+      "description": "ツミミの配信を追い、すべての手がかりをつなぎ、選択の結末を独立系ストーリー攻略で比較しましょう。",
+      "primary": "ストーリー攻略を読む",
+      "secondary": "Steamで見る"
+    }
+  },
+  "guide": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』攻略：完全攻略、ヒント、エンディング",
+    "overviewDescription": "初心者向けヒントから始め、『Red Chat Ritual TSUMIMI TIME』の完全攻略、体験版のアドバイス、調査手順、エンディングガイドを追いましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』システム：チャット、手がかり、調査",
+    "overviewDescription": "コメント、メガチャット、手がかりシステム、キーボードによる探偵作業が、『Red Chat Ritual TSUMIMI TIME』の各配信調査をどう形づくるかを学びましょう。"
+  },
+  "characters": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』キャラクター：ツミミ、マシロ、登場人物",
+    "overviewDescription": "『Red Chat Ritual TSUMIMI TIME』の中心にいるツミミ、マシロ、行方不明の配信者を、背景設定とコミュニティの理論とともに紹介します。"
+  },
+  "platforms": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』プラットフォーム：Steam、体験版、PC要件",
+    "overviewDescription": "『Red Chat Ritual TSUMIMI TIME』をプレイする前に、Steamでの提供状況、体験版の詳細、発売日、価格、英語対応、システム要件を確認しましょう。"
+  },
+  "community": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』コミュニティ：Reddit、レビュー、プレイヤーの反応",
+    "overviewDescription": "『Red Chat Ritual TSUMIMI TIME』のサイコロジカルホラー・ミステリーに関するコミュニティの議論、Redditスレッド、レビュー、プレイヤーの反応を見ましょう。"
+  },
+  "media": {
+    "overviewTitle": "『Red Chat Ritual TSUMIMI TIME』メディア：トレーラー、ゲームプレイ、サウンドトラック",
+    "overviewDescription": "トレーラー、ゲームプレイ、完全プレイ動画を見て、『Red Chat Ritual TSUMIMI TIME』のテーマ曲とサウンドトラックの記事も確認しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "updated": "更新",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Red Chat Ritual TSUMIMI TIME Wiki",
+    "about": "『Red Chat Ritual TSUMIMI TIME Wiki』は、物語の手がかり、選択の結末、エンディング、キャラクター、ゲームの基礎知識を扱う、ファン制作の独立ガイドハブです。新しいプレイヤーにも経験者にも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Red Chat Ritual TSUMIMI TIME Wiki。Tohakusha Inc. および CIRCLE LINE GAMES とは提携していません。",
+    "description": "PC向けサイコロジカルホラー・ミステリーアドベンチャー。ツミミの配信を調査し、マシロ失踪の真相を明らかにしましょう。",
+    "playGame": "Steamで見る",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "steamCommunity": "Steamコミュニティ",
+    "guide": "ガイド",
+    "mechanics": "システム",
+    "characters": "キャラクター",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "media": "メディア",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

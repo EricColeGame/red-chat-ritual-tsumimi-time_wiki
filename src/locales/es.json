@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Red Chat Ritual TSUMIMI TIME Wiki",
+    "shortName": "TSUMIMI TIME",
+    "tagline": "Guías de historia, finales, pistas y soluciones",
+    "description": "Wiki independiente de Red Chat Ritual TSUMIMI TIME con pistas de la historia, consecuencias de las decisiones, finales, personajes y guías completas.",
+    "legalNotice": "Wiki de fans no oficial. No está afiliada a Tohakusha Inc. ni a CIRCLE LINE GAMES."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "media": "Medios",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Red Chat Ritual TSUMIMI TIME: finales y guía",
+      "description": "Encuentra guías de Red Chat Ritual: TSUMIMI TIME, pistas de la historia, consecuencias de las decisiones, soluciones de finales, detalles de personajes, información de la demo y requisitos de PC."
+    },
+    "hero": {
+      "eyebrow": "Misterio de terror psicológico",
+      "title": "Red Chat Ritual TSUMIMI TIME Wiki",
+      "description": "Investiga el directo de Tsumimi, descubre pistas ocultas, influye en los acontecimientos y averigua la verdad tras la desaparición de Mashiro en este misterio de terror psicológico.",
+      "stats": [
+        "Lanzado el 22 de octubre de 2026",
+        "4 idiomas disponibles",
+        "Más de 110 K de listas de deseos en Steam",
+        "Unas 4 horas para la primera partida"
+      ],
+      "primaryCta": "Solución de la historia",
+      "secondaryCta": "Ver en Steam",
+      "tertiaryCta": "Ver tráiler oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Red Chat Ritual TSUMIMI TIME",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo de día y noche, lee los archivos de investigación, guarda antes de los directos y publica tus primeros comentarios sin malgastar fondos."
+        },
+        {
+          "number": "2",
+          "title": "Solución de la historia",
+          "description": "Sigue la investigación de 15 días con un orden claro para las pistas diurnas, los directos nocturnos, las deducciones clave y las comprobaciones de ramas."
+        },
+        {
+          "number": "3",
+          "title": "Investigación de pistas",
+          "description": "Encuentra las pruebas de cada nombre y lugar mediante respuestas, resultados de búsqueda, sitios de fans, detalles de ubicación y reacciones a los regalos."
+        },
+        {
+          "number": "4",
+          "title": "Finales y decisiones",
+          "description": "Planifica mega chats, regalos, comentarios y silencios en torno a las decisiones que llevan la historia de Tsumimi hacia distintos finales."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Todos los finales",
+        "Guía para principiantes",
+        "Solución de la historia",
+        "Sistema de pistas"
+      ],
+      "cards": [
+        {
+          "badge": "Guía",
+          "title": "Guía de finales",
+          "description": "Compara los tipos de ruta, las señales de cierre y las comprobaciones de recuperación de cada final.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide"
+        },
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Empieza el ciclo de día y noche con una lista práctica de preparación y prioridades iniciales.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide"
+        },
+        {
+          "badge": "Solución",
+          "title": "Solución de la historia",
+          "description": "Avanza por cada etapa de la investigación en un orden claro y legible.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Sistema de pistas",
+          "description": "Convierte las palabras clave del directo en pruebas con los archivos de investigación y búsquedas específicas.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Guía de personajes",
+          "description": "Conoce a Mashiro, Tsumimi, el espectador y el chat en directo en el centro del misterio.",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters"
+        },
+        {
+          "badge": "Plataforma",
+          "title": "Requisitos de PC",
+          "description": "Consulta los requisitos de Windows, el hardware mínimo, la versión de DirectX y el almacenamiento.",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Red Chat Ritual TSUMIMI TIME?",
+      "paragraphs": [
+        "Red Chat Ritual TSUMIMI TIME es una aventura de misterio y terror psicológico para un jugador de Tohakusha Inc. Sigues el directo de Tsumimi tras la desaparición de Mashiro y usas comentarios, mega chats, regalos y un ciclo de investigación de 15 días para descubrir qué ocurrió en un pueblo abandonado.",
+        "El juego alterna la investigación diurna con los directos nocturnos. Los resultados de búsqueda, las cadenas de respuestas, los sitios de fans y los detalles de ubicación alimentan tus archivos de investigación; las deducciones que confirmas cambian las respuestas de Tsumimi y conducen a varios finales."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Tohakusha Inc."
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "22 de octubre de 2026"
+        },
+        {
+          "label": "Género",
+          "value": "Terror psicológico"
+        },
+        {
+          "label": "Campaña",
+          "value": "15 días"
+        },
+        {
+          "label": "Primera partida",
+          "value": "Unas 4 horas"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Red Chat Ritual TSUMIMI TIME",
+      "description": "Sigue la investigación completa de Red Chat Ritual TSUMIMI TIME con rutas de finales, pasos para principiantes, una solución día a día, análisis de pistas, decisiones de chat, personajes, detalles de la demo y requisitos de PC.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de finales de Red Chat Ritual TSUMIMI TIME",
+          "description": "Compara las rutas principales de finales y descubre cómo las intervenciones, investigaciones, deducciones y decisiones finales determinan el destino de Tsumimi a lo largo de la historia de 15 días.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Finalización limpia: responde a cada aviso del ritual dentro de su ventana y mantén el chat activo hasta la escena final."
+            },
+            {
+              "label": "A",
+              "detail": "Final de desviación: las respuestas tardías o fuera del guion producen un desenlace que menciona la incoherencia anterior."
+            },
+            {
+              "label": "B",
+              "detail": "Final silencioso: los largos silencios en el chat o los pasos del ritual sin responder cierran el directo con un desenlace mínimo."
+            },
+            {
+              "label": "C",
+              "detail": "Bloqueo suave: el aviso se repite sin diálogo nuevo, créditos ni una escena de cierre."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Red Chat Ritual TSUMIMI TIME",
+          "description": "Aprende el ciclo de día y noche, los archivos de investigación, los controles de comentarios, la gestión del presupuesto de mega chats y los hábitos que facilitan la primera partida.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lee los archivos de investigación y anota las preguntas abiertas antes de que empiece cada fase diurna."
+            },
+            {
+              "label": "2",
+              "detail": "Usa las búsquedas diurnas, las cadenas de respuestas y los detalles de ubicación para resolver las palabras clave del último directo."
+            },
+            {
+              "label": "3",
+              "detail": "Guarda desde la pantalla de inicio antes de cada directo nocturno para que un mal mensaje cueste una escena, no la partida."
+            },
+            {
+              "label": "4",
+              "detail": "Empieza con comentarios gratuitos y envía un mega chat solo cuando tengas una deducción concreta lista para probar."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Solución de Red Chat Ritual TSUMIMI TIME",
+          "description": "Sigue la historia día a día con un orden claro para las pistas del directo, la investigación diurna, las actualizaciones de los archivos de investigación y las deducciones principales.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Trata los 15 días como fases repetidas de investigación y directo; termina las pistas pendientes de cada día antes de la noche."
+            },
+            {
+              "label": "2",
+              "detail": "Observa el directo de Tsumimi en busca de nombres, lugares, contradicciones y reacciones que merezcan una búsqueda."
+            },
+            {
+              "label": "3",
+              "detail": "Resuelve las nuevas palabras clave mediante resultados de búsqueda, cadenas de respuestas, sitios de fans y detalles de ubicación."
+            },
+            {
+              "label": "4",
+              "detail": "Conecta los fragmentos en los archivos de investigación y anota qué conclusión respalda cada pieza."
+            },
+            {
+              "label": "5",
+              "detail": "Prueba una deducción por directo, primero con un comentario y solo con un mega chat cuando la respuesta importe."
+            },
+            {
+              "label": "6",
+              "detail": "Revisa el resultado, conserva una partida limpia y lleva las preguntas restantes al día siguiente."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de pistas e investigación de Red Chat Ritual TSUMIMI TIME",
+          "description": "Sigue las pruebas entre los comentarios del directo, las respuestas, los resultados de búsqueda, los detalles de ubicación, los sitios de fans y las reacciones a los regalos, y conéctalas en los archivos de investigación.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Respuestas",
+              "detail": "Despliega las cadenas de respuestas para detectar correcciones, marcas de tiempo y detalles posteriores."
+            },
+            {
+              "label": "Búsqueda",
+              "detail": "Busca nombres, acontecimientos y lugares en vez de detenerte en el primer resultado."
+            },
+            {
+              "label": "Ubicación",
+              "detail": "Usa los detalles del lugar para confirmar si una historia encaja con la cronología."
+            },
+            {
+              "label": "Sitios de fans",
+              "detail": "Lee los archivos de la comunidad para encontrar registros, obsesiones y contradicciones."
+            },
+            {
+              "label": "Señales de regalos",
+              "detail": "Fíjate en cómo reacciona Tsumimi a los regalos y mega chats, no solo en lo que dice."
+            },
+            {
+              "label": "Archivos",
+              "detail": "Revisa los archivos de investigación entre días para encontrar vacíos e hilos sin resolver."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de decisiones y chat de Red Chat Ritual TSUMIMI TIME",
+          "description": "Compara comentarios, mega chats, regalos y silencio, y planifica cada intervención según las pistas que tengas y los fondos disponibles.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-super-chat-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Comentario",
+              "detail": "Los mensajes gratuitos prueban el estado de ánimo de Tsumimi, provocan respuestas y abren ramas de diálogo."
+            },
+            {
+              "label": "Mega chat",
+              "detail": "Un mensaje destacado y de pago que puede redirigir un directo cuando se ignora un comentario normal."
+            },
+            {
+              "label": "Regalo",
+              "detail": "Un apoyo que cambia el ambiente del directo y puede provocar una reacción tardía en un día posterior."
+            },
+            {
+              "label": "Silencio",
+              "detail": "Una inacción deliberada que evita gastar fondos o provocar una reacción demasiado pronto."
+            },
+            {
+              "label": "Ctrl",
+              "detail": "Mantén pulsada Ctrl durante un directo para avanzar rápido hasta la siguiente decisión de mega chat."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de personajes de Red Chat Ritual TSUMIMI TIME",
+          "description": "Conoce a la streamer desaparecida, la presentadora en el centro del directo, tu papel como espectador y el chat en directo que da forma al misterio.",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mashiro",
+              "detail": "La streamer favorita cuya desaparición abre la historia e impulsa la investigación."
+            },
+            {
+              "label": "Tsumimi",
+              "detail": "La streamer cuyo directo de 15 días observas, cuestionas y en el que intervienes."
+            },
+            {
+              "label": "Espectador",
+              "detail": "Tu papel: publicar comentarios, enviar mega chats y regalos, y confirmar deducciones."
+            },
+            {
+              "label": "Chat en directo",
+              "detail": "Una presencia colectiva que aporta rumores, presión, pistas y pistas falsas."
+            },
+            {
+              "label": "Identidad",
+              "detail": "Sigue quién usa cada nombre y cuándo, porque los vacíos entre nombres se convierten en pistas."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de la demo de Red Chat Ritual TSUMIMI TIME",
+          "description": "Descubre qué presenta la demo jugable, cómo funcionan sus tres acciones principales y cómo llevar esos hábitos al lanzamiento completo de 15 días.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "BitSummit",
+              "detail": "La primera demo pública apareció en el stand de Tohakusha en BitSummit PUNCH, en Kioto, del 22 al 24 de mayo."
+            },
+            {
+              "label": "Ciclo principal",
+              "detail": "Intervén en un directo, investiga lo que aparece en pantalla y deduce qué significa."
+            },
+            {
+              "label": "Juego completo",
+              "detail": "El lanzamiento completo salió el 22 de octubre de 2026 y amplía el ciclo a lo largo de 15 días."
+            },
+            {
+              "label": "Partida nueva",
+              "detail": "Usa la demo como práctica y empieza el juego completo con una investigación nueva."
+            },
+            {
+              "label": "Música",
+              "detail": "Kikuo compuso música original para los directos y la atmósfera de terror del juego."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos de PC de Red Chat Ritual TSUMIMI TIME",
+          "description": "Consulta los requisitos de Windows, el hardware mínimo, la versión de DirectX y el espacio de almacenamiento antes de descargar el misterio de terror psicológico.",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows 10",
+              "detail": "Se requiere un sistema operativo de 64 bits; Windows de 32 bits no es compatible."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3-6100 o AMD Ryzen 3 1200."
+            },
+            {
+              "label": "RAM",
+              "detail": "Mínimo 4 GB; 8 GB o más deja margen para aplicaciones en segundo plano."
+            },
+            {
+              "label": "GPU",
+              "detail": "Intel UHD Graphics 620, NVIDIA GTX 750 Ti o AMD Radeon R7 260X."
+            },
+            {
+              "label": "DirectX",
+              "detail": "Versión 11 o posterior."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "4 GB de espacio disponible para la instalación base, las partidas guardadas y las actualizaciones."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más frecuentes sobre Red Chat Ritual TSUMIMI TIME.",
+      "items": [
+        {
+          "question": "¿Qué es Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Red Chat Ritual TSUMIMI TIME es una aventura de misterio y terror psicológico para un jugador de Tohakusha Inc. Intervienes en el directo de Tsumimi mientras investigas la desaparición de Mashiro a lo largo de una historia de 15 días."
+        },
+        {
+          "question": "¿Cuánto dura Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Red Chat Ritual TSUMIMI TIME transcurre a lo largo de 15 días del juego y la primera partida dura unas 4 horas. Las partidas repetidas pueden seguir deducciones distintas y alcanzar otros finales."
+        },
+        {
+          "question": "¿Cómo funcionan los comentarios y los mega chats en Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Los comentarios de Red Chat Ritual TSUMIMI TIME son gratuitos y útiles para probar las reacciones de Tsumimi. Los mega chats gastan fondos limitados para enviar mensajes destacados que pueden redirigir un directo cuando se ignora un comentario normal."
+        },
+        {
+          "question": "¿Red Chat Ritual TSUMIMI TIME tiene varios finales?",
+          "answer": "Sí. Red Chat Ritual TSUMIMI TIME se ramifica mediante intervenciones, investigaciones, deducciones y decisiones finales, y sus logros de finales apuntan a al menos ocho desenlaces."
+        },
+        {
+          "question": "¿Hay una demo de Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Una demo jugable de Red Chat Ritual TSUMIMI TIME presenta el ciclo de intervención, investigación y deducción. El lanzamiento completo amplía esa estructura a lo largo de la historia completa de 15 días."
+        },
+        {
+          "question": "¿Mi PC puede ejecutar Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Red Chat Ritual TSUMIMI TIME requiere Windows 10 de 64 bits, 4 GB de RAM, DirectX 11 y 4 GB de almacenamiento. El mínimo gráfico indicado es Intel UHD 620, GTX 750 Ti o Radeon R7 260X."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para descubrir la verdad en TSUMIMI TIME?",
+      "description": "Sigue el directo de Tsumimi, conecta cada pista y compara las consecuencias de tus decisiones con nuestras guías de historia independientes.",
+      "primary": "Leer la solución de la historia",
+      "secondary": "Ver en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Red Chat Ritual TSUMIMI TIME: soluciones, consejos y finales",
+    "overviewDescription": "Empieza con consejos para principiantes y sigue las soluciones completas, los consejos sobre la demo, los pasos de investigación y la guía de finales de Red Chat Ritual TSUMIMI TIME."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Red Chat Ritual TSUMIMI TIME: chat, pistas e investigación",
+    "overviewDescription": "Descubre cómo los comentarios, los mega chats, el sistema de pistas y el trabajo detectivesco con el teclado dan forma a cada investigación en directo de Red Chat Ritual TSUMIMI TIME."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Red Chat Ritual TSUMIMI TIME: Tsumimi, Mashiro y el reparto",
+    "overviewDescription": "Conoce a Tsumimi, Mashiro y la streamer desaparecida en el centro de Red Chat Ritual TSUMIMI TIME, con detalles de sus trasfondos y teorías de la comunidad."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Red Chat Ritual TSUMIMI TIME: Steam, demo y requisitos de PC",
+    "overviewDescription": "Consulta la disponibilidad en Steam, los detalles de la demo, la fecha de lanzamiento, el precio, la compatibilidad con inglés y los requisitos del sistema antes de jugar a Red Chat Ritual TSUMIMI TIME."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Red Chat Ritual TSUMIMI TIME: Reddit, reseñas y reacciones de jugadores",
+    "overviewDescription": "Explora las conversaciones de la comunidad, los hilos de Reddit, las reseñas y las reacciones de los jugadores al misterio de terror psicológico de Red Chat Ritual TSUMIMI TIME."
+  },
+  "media": {
+    "overviewTitle": "Medios de Red Chat Ritual TSUMIMI TIME: tráilers, gameplay y banda sonora",
+    "overviewDescription": "Mira tráilers, gameplay y partidas completas, y explora la cobertura de la canción principal y la banda sonora de Red Chat Ritual TSUMIMI TIME."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Red Chat Ritual TSUMIMI TIME Wiki",
+    "about": "Red Chat Ritual TSUMIMI TIME Wiki es un centro de guías independiente creado por fans que cubre pistas de la historia, consecuencias de las decisiones, finales, personajes y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Red Chat Ritual TSUMIMI TIME Wiki. No está afiliada a Tohakusha Inc. ni a CIRCLE LINE GAMES.",
+    "description": "Aventura de misterio y terror psicológico en PC. Investiga el directo de Tsumimi y descubre la verdad tras la desaparición de Mashiro.",
+    "playGame": "Ver en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "steamCommunity": "Comunidad de Steam",
+    "guide": "Guías",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "media": "Medios",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}
