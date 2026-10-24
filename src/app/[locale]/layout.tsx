@@ -36,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
       shortcut: "/favicon.ico",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title: siteConfig.name, description: siteConfig.description, images: [{ url: image, width: 1200, height: 630, alt: siteConfig.name }] },
+    twitter: { card: "summary_large_image", title: siteConfig.name, description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -50,10 +50,13 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    "description": siteConfig.description,
+    "email": siteConfig.supportEmail,
+    "sameAs": [siteConfig.gameUrl, siteConfig.social?.youtube, siteConfig.social?.steamCommunity].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
