@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the day-and-night loop, read Investigation Files, save before streams, and make your first comments without wasting funds."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Story Walkthrough",
+          "description": "Follow the 15-day investigation with a clear order for daytime clues, nighttime streams, key deductions, and branch checks."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Clue Investigation",
+          "description": "Find the evidence behind each name and place through replies, search results, fan sites, location details, and gift reactions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Red Chat Ritual TSUMIMI TIME."
+          "title": "Endings & Choices",
+          "description": "Plan Mega Chats, gifts, comments, and silence around the decisions that steer Tsumimi's story toward different endings."
         }
       ]
     },
@@ -66,73 +66,55 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "All Endings",
+        "Beginner Guide",
+        "Story Walkthrough",
+        "Clue System"
       ],
       "cards": [
         {
+          "badge": "Guide",
+          "title": "Endings Guide",
+          "description": "Compare the route types, closure signals, and recovery checks for every ending.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide"
+        },
+        {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start the day-and-night loop with a practical prep checklist and early priorities.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Walkthrough",
+          "title": "Story Walkthrough",
+          "description": "Work through each stage of the investigation in a clear, readable order.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Clue System",
+          "description": "Turn stream keywords into evidence with Investigation Files and targeted searches.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Characters",
+          "title": "Characters Guide",
+          "description": "Meet Mashiro, Tsumimi, the viewer, and the live chat at the center of the mystery.",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Platform",
+          "title": "PC Requirements",
+          "description": "Check the Windows baseline, minimum hardware, DirectX version, and storage.",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Red Chat Ritual TSUMIMI TIME?",
       "paragraphs": [
-        "Red Chat Ritual TSUMIMI TIME is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Red Chat Ritual TSUMIMI TIME is a single-player psychological horror mystery adventure from Tohakusha Inc. You follow Tsumimi's livestream after Mashiro disappears, using comments, Mega Chats, gifts, and a 15-day investigation loop to uncover what happened in an abandoned village.",
+        "The game alternates daytime investigation with nighttime streams. Search results, reply chains, fan sites, and location details feed your Investigation Files; the deductions you commit to shape Tsumimi's responses and lead toward multiple endings."
       ],
       "stats": [
         {
@@ -141,162 +123,264 @@
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Release",
+          "value": "Oct 22, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Psychological Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Campaign",
+          "value": "15 Days"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "First Run",
+          "value": "About 4 Hours"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Red Chat Ritual TSUMIMI TIME Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Follow the complete Red Chat Ritual TSUMIMI TIME investigation with ending routes, beginner steps, a day-by-day walkthrough, clue analysis, chat choices, characters, demo details, and PC requirements.",
       "modules": [
         {
           "order": 1,
-          "name": "Red Chat Ritual TSUMIMI TIME Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/red-chat-ritual-tsumimi-time-codes",
-          "displayType": "code-box",
+          "name": "Red Chat Ritual TSUMIMI TIME Endings Guide",
+          "description": "Compare the main ending routes and see how interventions, investigations, deductions, and final choices shape Tsumimi's fate across the 15-day story.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-ending-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "S",
+              "detail": "Clean completion: answer every ritual prompt inside its window and keep the chat active to the final scene."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "A",
+              "detail": "Deviation ending: late or off-script replies produce a finale that references the earlier inconsistency."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "B",
+              "detail": "Silent ending: long chat gaps or unanswered ritual steps close the stream with minimal closure."
+            },
+            {
+              "label": "C",
+              "detail": "Soft lock: the prompt repeats without new dialogue, credits, or a closing frame."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Red Chat Ritual TSUMIMI TIME Beginner Guide",
+          "description": "Learn the day-and-night loop, Investigation Files, comment controls, Mega Chat budgeting, and the habits that make a first playthrough smoother.",
           "href": "/guide/red-chat-ritual-tsumimi-time-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Read the Investigation Files and note the open questions before each day phase begins."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Use daytime searches, reply chains, and location details to resolve keywords from the last stream."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Save from the home screen before every night stream so a bad message costs one scene, not the run."
+            },
+            {
+              "label": "4",
+              "detail": "Start with free comments, then commit a Mega Chat only when a specific deduction is ready to test."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/red-chat-ritual-tsumimi-time-tier-list",
-          "displayType": "tier-grid",
+          "name": "Red Chat Ritual TSUMIMI TIME Walkthrough",
+          "description": "Follow the story day by day with a clear order for stream clues, daytime research, Investigation File updates, and major deductions.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Treat the 15 days as repeated investigation and stream phases; finish each day's unresolved leads before night."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Watch Tsumimi's stream for names, places, contradictions, and reactions that deserve a search."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Resolve new keywords through search results, reply chains, fan sites, and location details."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Link the fragments in Investigation Files and note which conclusion each piece supports."
+            },
+            {
+              "label": "5",
+              "detail": "Test one deduction per stream with a comment first and a Mega Chat only when the answer matters."
+            },
+            {
+              "label": "6",
+              "detail": "Review the outcome, keep a clean save, and carry the remaining questions into the next day."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/red-chat-ritual-tsumimi-time-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Red Chat Ritual TSUMIMI TIME Clues and Investigation Guide",
+          "description": "Track evidence across stream comments, replies, search results, location details, fan sites, and gift reactions, then connect it in the Investigation Files.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-clue-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Replies",
+              "detail": "Expand reply chains to catch corrections, timestamps, and follow-up details."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Search",
+              "detail": "Search names, events, and places instead of stopping at the first result."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Location",
+              "detail": "Use place details to confirm whether a story lines up with the timeline."
+            },
+            {
+              "label": "Fan Sites",
+              "detail": "Read community archives for records, obsessions, and contradictions."
+            },
+            {
+              "label": "Gift Cues",
+              "detail": "Note how Tsumimi reacts to gifts and Mega Chats, not just what she says."
+            },
+            {
+              "label": "Files",
+              "detail": "Review Investigation Files between days to find gaps and unresolved threads."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/red-chat-ritual-tsumimi-time-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Red Chat Ritual TSUMIMI TIME Choices and Chat Guide",
+          "description": "Compare comments, Mega Chats, gifts, and silence, then plan each intervention around the clues you have and the funds you can spare.",
+          "href": "/mechanics/red-chat-ritual-tsumimi-time-super-chat-mechanics",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Comment",
+              "detail": "Free messages test Tsumimi's mood, trigger replies, and open dialogue branches."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Mega Chat",
+              "detail": "A paid, highlighted message that can redirect a stream when a plain comment is ignored."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Gift",
+              "detail": "Support that shifts the stream's mood and can produce a delayed reaction on a later day."
+            },
+            {
+              "label": "Silence",
+              "detail": "A deliberate non-action that avoids spending funds or triggering a reaction too early."
+            },
+            {
+              "label": "Ctrl",
+              "detail": "Hold Ctrl during a stream to fast-forward to the next Mega Chat decision."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/red-chat-ritual-tsumimi-time-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Red Chat Ritual TSUMIMI TIME Characters Guide",
+          "description": "Meet the missing streamer, the host at the center of the broadcast, your viewer persona, and the live chat that shapes the mystery.",
+          "href": "/characters/red-chat-ritual-tsumimi-time-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Mashiro",
+              "detail": "The favorite streamer whose disappearance opens the story and drives the investigation."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Tsumimi",
+              "detail": "The streamer whose 15-day broadcast you watch, question, and intervene in."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Viewer",
+              "detail": "Your role: post comments, send Mega Chats and gifts, and commit to deductions."
+            },
+            {
+              "label": "Live Chat",
+              "detail": "A collective presence that supplies rumors, pressure, hints, and misdirection."
+            },
+            {
+              "label": "Identity",
+              "detail": "Track who uses each name and when, because name gaps become clues."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Red Chat Ritual TSUMIMI TIME Demo Guide",
+          "description": "Learn what the playable demo introduces, how its three core actions work, and how to carry those habits into the full 15-day release.",
+          "href": "/guide/red-chat-ritual-tsumimi-time-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "BitSummit",
+              "detail": "The first public demo appeared at Tohakusha's BitSummit PUNCH booth in Kyoto, May 22-24."
+            },
+            {
+              "label": "Core Loop",
+              "detail": "Intervene in a livestream, investigate what appears on screen, and deduce what it means."
+            },
+            {
+              "label": "Full Game",
+              "detail": "The full release launched on October 22, 2026 and expands the loop across 15 days."
+            },
+            {
+              "label": "Fresh Save",
+              "detail": "Use the demo as practice, then begin the full release with a new investigation."
+            },
+            {
+              "label": "Music",
+              "detail": "Kikuo composed original music for the game's streams and horror atmosphere."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Red Chat Ritual TSUMIMI TIME PC Requirements",
+          "description": "Check the Windows baseline, minimum hardware, DirectX version, and storage space before downloading the psychological horror mystery.",
+          "href": "/platforms/red-chat-ritual-tsumimi-time-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows 10",
+              "detail": "64-bit operating system required; 32-bit Windows is not supported."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3-6100 or AMD Ryzen 3 1200."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB minimum; 8 GB or more leaves room for background apps."
+            },
+            {
+              "label": "GPU",
+              "detail": "Intel UHD Graphics 620, NVIDIA GTX 750 Ti, or AMD Radeon R7 260X."
+            },
+            {
+              "label": "DirectX",
+              "detail": "Version 11 or newer."
+            },
+            {
+              "label": "Storage",
+              "detail": "4 GB available space for the base install, saves, and updates."
             }
           ]
         }
@@ -308,23 +392,27 @@
       "items": [
         {
           "question": "What is Red Chat Ritual TSUMIMI TIME?",
-          "answer": "Red Chat Ritual TSUMIMI TIME is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Red Chat Ritual TSUMIMI TIME is a single-player psychological horror mystery adventure from Tohakusha Inc. You intervene in Tsumimi's livestream while investigating Mashiro's disappearance across a 15-day story."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How long is Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Red Chat Ritual TSUMIMI TIME runs for 15 in-game days, with a first playthrough of roughly 4 hours. Repeat runs can follow different deductions and reach other endings."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do comments and Mega Chats work in Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Comments in Red Chat Ritual TSUMIMI TIME are free and useful for testing Tsumimi's reactions. Mega Chats spend limited funds to send highlighted messages that can redirect a stream when a plain comment is ignored."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Red Chat Ritual TSUMIMI TIME have multiple endings?",
+          "answer": "Yes. Red Chat Ritual TSUMIMI TIME branches through interventions, investigations, deductions, and final choices, with ending achievements pointing to at least eight outcomes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is there a demo of Red Chat Ritual TSUMIMI TIME?",
+          "answer": "A playable demo of Red Chat Ritual TSUMIMI TIME introduces the intervention, investigation, and deduction loop. The full release expands that structure across the complete 15-day story."
+        },
+        {
+          "question": "Can my PC run Red Chat Ritual TSUMIMI TIME?",
+          "answer": "Red Chat Ritual TSUMIMI TIME requires 64-bit Windows 10, 4 GB of RAM, DirectX 11, and 4 GB of storage. The listed graphics floor is Intel UHD 620, GTX 750 Ti, or Radeon R7 260X."
         }
       ]
     },
