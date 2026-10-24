@@ -8,6 +8,12 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -423,13 +429,33 @@
       "secondary": "View on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Guide: Walkthroughs, Tips, and Endings",
+    "overviewDescription": "Start with beginner tips, then follow full walkthroughs, demo advice, investigation steps, and ending guidance for Red Chat Ritual TSUMIMI TIME."
+  },
+  "mechanics": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Mechanics: Chat, Clues, and Investigation",
+    "overviewDescription": "Learn how comments, Mega Chats, the clue system, and keyboard detective work shape each livestream investigation in Red Chat Ritual TSUMIMI TIME."
+  },
+  "characters": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Characters: Tsumimi, Mashiro, and the Cast",
+    "overviewDescription": "Meet Tsumimi, Mashiro, and the missing streamer at the center of Red Chat Ritual TSUMIMI TIME, with backstory details and community theories."
+  },
+  "platforms": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Platforms: Steam, Demo, and PC Requirements",
+    "overviewDescription": "Check Steam availability, demo details, release date, price, English support, and system requirements before you play Red Chat Ritual TSUMIMI TIME."
+  },
+  "community": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Community: Reddit, Reviews, and Player Reactions",
+    "overviewDescription": "Browse community discussion, Reddit threads, reviews, and player reactions to the psychological horror mystery in Red Chat Ritual TSUMIMI TIME."
+  },
+  "media": {
+    "overviewTitle": "Red Chat Ritual TSUMIMI TIME Media: Trailers, Gameplay, and Soundtrack",
+    "overviewDescription": "Watch trailers, gameplay, and full playthroughs, and explore the theme song and soundtrack coverage for Red Chat Ritual TSUMIMI TIME."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -453,11 +479,12 @@
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "steamCommunity": "Steam Community",
-    "vvBuilder": "Story & Clue Guide",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "guide": "Guides",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
