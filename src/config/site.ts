@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Red Chat Ritual TSUMIMI TIME Wiki",
+  shortName: "TSUMIMI TIME",
+  logoText: "R",
+  tagline: "Story Guides, Endings, Clues & Walkthroughs",
+  description: "Investigate Tsumimi's livestream, uncover hidden clues, influence story events, and discover the truth behind Mashiro's disappearance in Red Chat Ritual TSUMIMI TIME.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://red-chat-ritual-tsumimi-time.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://red-chat-ritual-tsumimi-time.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/4413070/Red_Chat_Ritual___TSUMIMI_TIME/",
+  heroVideoId: "FFeaaU_GZ9Y", // Red Chat Ritual TSUMIMI TIME official Kickstarter trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=FFeaaU_GZ9Y",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
